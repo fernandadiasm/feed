@@ -24,14 +24,14 @@ const posts = [
   {
     id: 2,
     author: {
-      avatarUrl: 'https://github.com/diego3g.png',
-      name: 'Diego Fernandes',
-      role: 'CTO @Rocketseat'
+      avatarUrl: 'https://images.unsplash.com/photo-1511044568932-338cba0ad803?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80',
+      name: 'Gatinho',
+      role: 'CTO @Miau'
     },
     content: [
-      { type: 'paragraph', content: 'Fala galeraa 👋' },
-      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa. É um projeto que fiz no NLW Return, evento da Rocketseat. O nome do projeto é DoctorCare 🚀' },
-      { type: 'link', content: 'jane.design/doctorcare' }
+      { type: 'paragraph', content: 'Fala galeraa 🐾' },
+      { type: 'paragraph', content: 'Acabei de subir mais um projeto no meu portifa, espero que gostem!  🚀' },
+      { type: 'link', content: 'github.com' }
     ],
     publishedAt: new Date('2023-04-13 15:00:00')
   }
