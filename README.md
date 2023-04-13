@@ -22,7 +22,7 @@
 O Feed é um projeto simples que simula o feed de uma rede social, com várias funcionalidades como: fazer comentários, dar likes e apagar comentários.
 </p>
 
-[🔗 É possível acessar o projeto clicando aqui! 🖥️](https://fernandadiasm.github.io/feed/)
+[🔗 É possível acessar o projeto clicando aqui! 🖥️](https://feed-eosin-tau.vercel.app/)
 
 <br>
 
