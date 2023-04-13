@@ -84,12 +84,3 @@ Esse projeto está sob a licença MIT.
 
 
 
-
-Como usar
-Clonar repositório git clone https://github.com/codewithmiguel/ignite-feed.git 
-
-Instalar dependências yarn ou npm i
-
-Subir projeto Local yarn dev ou npm run dev
-
-Acessar projeto http://localhost:3000/
