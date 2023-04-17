@@ -31,12 +31,12 @@ O Feed é um projeto simples que simula o feed de uma rede social, com várias f
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
-- CSS-module
+- CSS module
 - ReactJS
 - Vite
 - React Dom
-- Date-fns
-- Phosphor-react
+- Date fns
+- Phosphor react
 
 <br>
 
